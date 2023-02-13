@@ -19,7 +19,7 @@ struct AppleModel {
 let dummyAppleData = [
     AppleModel(
     id: 1,
-    name: "iPad Air (Generasi ke-5) - Spesifikasi Tekni",
+    name: "iPad Air (Generasi ke-5) - Spesifikasi Teknis",
     image: UIImage(named: "IpadAir5")!,
     description: "Layar Liquid Retina, Layar Multi-Touch dengan lampu latar LED 10,9 inci (diagonal) dengan teknologi IPS, Resolusi 2360 x 1640 piksel dengan 264 piksel per inci (ppi), Layar warna luas (P3), Layar True Tone, Lapisan oleophobic anti sidik jari, Layar yang dilaminasi penuh, Lapisan anti reflektif, Reflektivitas 1,8%, Kecerahan 500 nit, Mendukung Apple Pencil (generasi ke-2), Layar iPad Air memiliki sudut melengkung. Jika diukur secara diagonal sebagai persegi, layarnya memiliki ukuran 10,86 inci. Area bidang layar berukuran lebih kecil."
   ), AppleModel(
